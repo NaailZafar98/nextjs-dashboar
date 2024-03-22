@@ -4,7 +4,7 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 Download the project on a code editor (Visual Studio Code), Ctrl+J, npm run dev and run localhost. 
 
-There are still few minor imperfections of authentication and pagination but that does not restrict surfacing and navigating my whole application as a whole. 
+There are still few minor imperfections of authentication but that does not restrict surfacing and navigating my whole application as a whole. 
 
 Images will be provided on my porfolio as well, so not to worry. 
 
